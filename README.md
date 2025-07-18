@@ -26,8 +26,8 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/SakshiGapat" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="30" />
-  </a>
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="30" width="30" />
+</a>
 </p>
 <p align="left">
 </p>
