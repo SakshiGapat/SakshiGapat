@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshigapat&label=Profile%20views&color=0e75b6&style=flat" alt="sakshigapat" /> </p>
 
-- 🔭 I’m currently studying **Final year CSE student**
+- 🔭 I’m a **Final year facinated CSE student**
 
-- 🌱 I’m currently learning **DSA,Python and Java**
+- 🌱 I cultivating my **Knowledge like tree**
 
 - 💬 Ask me about **C,C++,java,HTML,CSS,Javascript, Python and DSA**
 
 - 📫 How to reach me **sakshigapat2004@gmail.com**
 
 - ⚡ Fun fact **There is always one more bug to fix.**
+
+- I approach every project with dedication and a genuine passion for **crafting impactful and efficient solutions.**
 - <hr>
 
 <h3 align="left">Connect with me:</h3>
