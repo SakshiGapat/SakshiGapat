@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshigapat&label=Profile%20views&color=0e75b6&style=flat" alt="sakshigapat" /> </p>
 
-- 🔭 I’m a **Final year facinated CSE student**
+- 🔭 I’m a **Final year fascinated CSE student**
 
 - 🌱 I cultivating my **Knowledge like tree**
 
