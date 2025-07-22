@@ -60,15 +60,17 @@
 💬 I’m always open to collaboration, hackathons, or any exciting technical discussions!
 <hr>
 <h2>Notable Projects</h2>
-🤖 AI-Driven Smart Stick
-An intelligent assistive device for the visually impaired with object detection, water sensing, GPS tracking, and voice feedback.
+<ul>
+<li><p><b>>🤖 AI-Driven Smart Stick</b></p>
+<p>An intelligent assistive device for the visually impaired with object detection, water sensing, GPS tracking, and voice feedback.</p>
+</li>
+<li><p><b>>🚗 Camupus Auto Connect</b></p>
+<p>A student ride-booking web app to connect college students with auto drivers for safe and easy travel – built using HTML, CSS, JS, Express.js, and MongoDB.</p>
 
-🚛 Trinity Auto (Truck Booking Platform)
-A role-based full-stack web app for loaders and truck owners, enabling truck bookings and real-time logistics management.
+<li><p><b>>🎨 Color Palette Generator</b></p>
+A creative web tool to generate color palettes with names, perfect for designers and developers.</p>
 
-🎨 Color Palette Generator
-A creative web tool to generate color palettes with names, perfect for designers and developers.
-
-💸 Expense Tracker Website
-A user-friendly site to manage personal finances with features like adding expenses, viewing summaries, and categorizing spending.
+<li><p><b>>💸 Expense Tracker Website</b></p>
+A user-friendly site to manage personal finances with features like adding expenses, viewing summaries, and categorizing spending.</p>
+</ul>
 <hr>
