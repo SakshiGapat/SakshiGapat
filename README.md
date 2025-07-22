@@ -33,8 +33,8 @@
 </p>
 <h3 align="left">Portfolio & Resume:</h3>
 
-- 🌐 My Portfolio: [sakshigapat.netlify.app](https://sakshigapat.github.io/Portfolio/)
-- 📄 My Resume: [Click here to view](https://drive.google.com/file/d/1hdT9eAiQ31nNM2hCGhku6zuOSLoWJvHQ/view?usp=drivesdk)
+- 🌐 My Portfolio: (https://sakshigapat.github.io/Portfolio/)
+- 📄 My Resume: (https://drive.google.com/file/d/1hdT9eAiQ31nNM2hCGhku6zuOSLoWJvHQ/view?usp=drivesdk)
 
 
 <h3 align="left">Languages and Tools:</h3>
