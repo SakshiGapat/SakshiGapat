@@ -49,4 +49,26 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshigapat&" alt="sakshigapat" /></p>
 
 <hr>
+💡 I love building projects that solve real-world problems using tech and creativity.
 
+🧠 I'm especially interested in AI, IoT, and full-stack development using modern tools.
+
+🌐 I enjoy learning new frameworks and sharing knowledge through open-source contributions.
+
+🎯 My goal is to become a skilled software engineer and contribute to impactful innovations.
+
+💬 I’m always open to collaboration, hackathons, or any exciting technical discussions!
+<hr>
+<h2>Notable Projects</h2>
+🤖 AI-Driven Smart Stick
+An intelligent assistive device for the visually impaired with object detection, water sensing, GPS tracking, and voice feedback.
+
+🚛 Trinity Auto (Truck Booking Platform)
+A role-based full-stack web app for loaders and truck owners, enabling truck bookings and real-time logistics management.
+
+🎨 Color Palette Generator
+A creative web tool to generate color palettes with names, perfect for designers and developers.
+
+💸 Expense Tracker Website
+A user-friendly site to manage personal finances with features like adding expenses, viewing summaries, and categorizing spending.
+<hr>
