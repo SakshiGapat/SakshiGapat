@@ -111,5 +111,6 @@ A creative web tool to generate color palettes with names, perfect for designers
 A user-friendly site to manage personal finances with features like adding expenses, viewing summaries, and categorizing spending.</p>
 </ul>
 <hr>
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/SakshiGapat)
+<p>👨‍💻 All of my projects are available on <a href="https://github.com/SakshiGapat" target="_blank">GitHub</a></p>
+
 
