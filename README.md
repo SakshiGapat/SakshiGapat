@@ -49,8 +49,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshigapat&" alt="sakshigapat" /></p>
 
 <hr>
-I am a passionate and innovative tech enthusiast with hands-on experience in full-stack development and AI integration.
-I enjoy building impactful projects, especially those that combine hardware and software for real-world solutions.
-With a strong foundation in Java, Node.js, and MongoDB, I create responsive web apps and smart IoT systems.
-I actively contribute to open-source projects and continuously explore new technologies to enhance my skills.
-Driven by curiosity and a problem-solving mindset, I aim to develop solutions that benefit society.
+
