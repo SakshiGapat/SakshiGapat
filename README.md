@@ -67,7 +67,7 @@
   </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" 
-       alt="expressjs" width="40" height="40" 
+       alt="expressjs" width="50" height="50" 
        style="border-radius: 6px;"/> 
 </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
