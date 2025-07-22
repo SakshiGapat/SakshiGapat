@@ -14,7 +14,7 @@
 - ⚡ Fun fact **There is always one more bug to fix.**
 
 - I approach every project with dedication and a genuine passion for **crafting impactful and efficient solutions.**
-- <hr>
+  <hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
