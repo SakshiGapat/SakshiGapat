@@ -100,7 +100,7 @@
 🎯 My goal is to become a skilled software engineer and contribute to impactful innovations.
 💬 I’m always open to collaboration, hackathons, or any exciting technical discussions!
 <hr>
-<h2>Notable Projects</h2>
+<h2>🌟Notable Projects🌟</h2>
 <ul>
 <li><p><b>🤖 AI-Driven Smart Stick</b></p>
 <p>An intelligent assistive device for the visually impaired with object detection, water sensing, GPS tracking, and voice feedback.</p>
