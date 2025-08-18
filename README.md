@@ -35,7 +35,7 @@
 <h3 align="left">Portfolio & Resume:</h3>
 
 - 🌐 My Portfolio: [Portfolio](https://sakshigapat.github.io/Portfolio/)
-- 📄 My Resume: [Click here to view](https://drive.google.com/file/d/1flOJ9HMg4aQbCXWuEVWgovUDlP9C5nLn/view?usp=drivesdk)
+- 📄 My Resume: [Click here to view](https://drive.google.com/file/d/1g54RnyDnuXAYb40-dhx8IRHNthcY9wls/view?usp=drivesdk)
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
