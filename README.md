@@ -91,7 +91,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshigapat&show_icons=true&locale=en" alt="sakshigapat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshigapat&v=2" alt="sakshigapat" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshigapat&" alt="sakshigapat" /></p>
 
 <hr>
 💡 I love building projects that solve real-world problems using tech and creativity.
